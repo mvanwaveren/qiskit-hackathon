@@ -12,6 +12,8 @@ You will find more details in the Jupyter Notebook included in this repository (
 
 During the implementation of this project, we encountered a bug with the global phase in Qiskit and misleading text in the Qiskit primer which were reported to IBM. Reports of these are included in the papers directory. The bug was reported on the Qiskit repository: https://github.com/Qiskit/qiskit-terra/issues/5845#issuecomment-950140348
 
+Outstanding issue: Fix the two_qubit_unitary function so it has the same result as the tutorial on TensorFlow-Quantum.
+
 This work was performed by:
 
 Idriss Alaoui Amini<br>
